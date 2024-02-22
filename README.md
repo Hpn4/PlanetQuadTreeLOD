@@ -11,11 +11,13 @@ I also added a small FBM generator to create a rough shape.
 Here an animation of the QuadTree in action. I also added a small FBM to show that cracks does not appear inside a face.
 A SampleScene is given if you would like to test.
 
+![LOD](res/lod.gif)
+
 ## How to use
 
 Simply add the Planet script to a gameobject. You can change the radius, the resolution of a single chunk, the number of level...
 
-
+![Settings](res/settings.png)
 
 ## Limitations
 
